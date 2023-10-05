@@ -28,7 +28,8 @@ void fillVector(std::vector<int> &inVector, int arr_size, int inMaxNumberSize)
 {
 	for (int i{}; i < arr_size; i++)
 	{
-		inVector.push_back(rand() % inMaxNumberSize + 1);
+		inVector.push_back(rand());
+		// % inMaxNumberSize + 1
 	}
 }
 

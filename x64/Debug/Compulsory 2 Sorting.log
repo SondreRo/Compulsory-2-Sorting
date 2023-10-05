@@ -1,2 +1,6 @@
-﻿  SelectionSort.cpp
+﻿  Compulsory_2_Sorting.cpp
+C:\Users\soroe\RiderProjects\Compulsory 2 Sorting\Compulsory_2_Sorting.cpp(37,28): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\soroe\RiderProjects\Compulsory 2 Sorting\Compulsory_2_Sorting.cpp(138,22): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\soroe\RiderProjects\Compulsory 2 Sorting\Compulsory_2_Sorting.cpp(143,51): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\soroe\RiderProjects\Compulsory 2 Sorting\Compulsory_2_Sorting.cpp(168,12): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
   Compulsory 2 Sorting.vcxproj -> C:\Users\soroe\RiderProjects\Compulsory 2 Sorting\x64\Debug\Compulsory 2 Sorting.exe
